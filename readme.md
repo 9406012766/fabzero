@@ -23,6 +23,8 @@ Today I have seen different types machine as follows:
 ![CNC Machine](CNCMachine.jpeg "CNC")
 ## Ink Jet Printer
 ![Ink Jet Printer](Inkjetprinter.jpeg "Ink Jet Printer")
+## Laser Cutter Printer
+![Laser Cutter Machine](Lasercutter.jpeg "Lasere Cutter Machine")
 
 ******* DAY 2 (19.03.2019) ******
 I downloaded Inkscape and cura software for configuring the 3D printing.
