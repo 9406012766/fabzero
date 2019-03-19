@@ -30,4 +30,6 @@ Whenever click on "Push" button "Git Bash" window will be opened.
 In "Git Bash" window, write the command "git config --global user.email "suvadip.barua@stpi.in"
 and also write command "git config --global user name "Suvadip Barua".
 Then refresh the web page "https://github.com/9406012766/fabzero". "fabzero" is the document folder in the computer.
+To see the day to day work contribution of each person, open the web page "https://github.com/9406012766", then a daily contribution graph will graph will appear of that user.
+
 ![Vinyl Cutter](vinylcutter.jpeg "vinyl")
