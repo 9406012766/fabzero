@@ -24,7 +24,9 @@ Today I have seen different types machine as follows:
 ## Ink Jet Printer
 ![Ink Jet Printer](Inkjetprinter.jpeg "Ink Jet Printer")
 ## Laser Cutter Filter
-![Laser Cutter Filter](Lasercutterfilter.jpeg "Lasere Cutter Filter")
+![Laser Cutter Filter](Lasercutterfilter.jpeg "Laser Cutter Filter")
+## Laser Cutter Machine
+![Laser Cutter Machine](Lasercutter.jpeg "Laser Cutter Machine")
 
 ******* DAY 2 (19.03.2019) ******
 I downloaded Inkscape and cura software for configuring the 3D printing.
