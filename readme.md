@@ -36,3 +36,6 @@ Then that image name will appear in "Visual Studeo Code" software. The write the
 Then in the same above process have to push the image in the web site "https://github.com/9406012766/fabzero" and refresh the web site to see the update effect.
 ## Vinyl Cutter
 ![Vinyl Cutter](vinylcutter.jpeg "vinyl")
+In this machine, the vinyl sheet should be kept within the white mark length.
+Each side atleast 2mm space should be kept.
+The side margine of the sheet should be in the level of machine marked level.
