@@ -23,8 +23,6 @@ Today I have seen different types machine as follows:
 ![CNC Machine](CNCMachine.jpeg "CNC")
 ## Ink Jet Printer
 ![Ink Jet Printer](Inkjetprinter.jpeg "Ink Jet Printer")
-## Laser Cutter Machine
-![Laser Cutter Machine](lasercutter.jpeg "Laser Cutter Machine")
 ## Laser Cutter Filter
 ![Laser Cutter Filter](Lasercutterfilter.jpeg "Lasere Cutter Filter")
 
