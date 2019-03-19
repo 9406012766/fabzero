@@ -25,4 +25,6 @@ Then copy the URL from "www.github.com/9406012766/Suvadip" from "clone with HTTP
 And past the above URL in Visual Studio Code software to upload the day to day work documents.
 To making any changes/ corrections in the datasheet of Visual Studeo Code, after making the changes/ correction, a massage will appear in "Source Control" the save it by clicking Control + S.
 After saving the corrections, another massage will arrear to commit. Write the any commit name. Exam: "Test". After that click on "Tick" mark.
+Then from the .....(dotted) option click on "Push".
+Then refresh the web page "https://github.com/9406012766/fabzero". "fabzero" is the document folder in the computer.
 ![Vinyl Cutter](vinylcutter.jpeg "vinyl")
