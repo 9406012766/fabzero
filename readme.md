@@ -1,4 +1,5 @@
 ******************** DAY - 1 (18.03.2019) *******************
+
  Hi, I am Suvadip Barua from STPI-Kolkata
 I visited fab lab Bhubaneswar on 18.03.2019 and had seen equipment installed in fabrication lab. 
 Listen the primary demo of different CNC (Computer Numerical Control") machines like Band Saw Cutter,Scroll Saw. 
@@ -15,5 +16,6 @@ There is a Filttering machine of PureX. It is used extract the gases and micro p
 There is a 3D printer of model 3DWOX, make Sindoh. It is Fused Filament diposion. The plastic materials liquified and when printing going on, the material getting hard.
 There is Formlabs 3D printer. It is stereo lethography. Using resin, the UV ray make chemical reaction.
 The is injet 3D printer. It is a 2 axis machine for simple 3D printing.
+
 ******* DAY 2 ******
 ![Vinyl Cutter](vinylcutter.jpeg "vinyl")
