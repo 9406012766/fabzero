@@ -17,8 +17,10 @@ There is a 3D printer of model 3DWOX, make Sindoh. It is Fused Filament diposion
 There is Formlabs 3D printer. It is stereo lethography. Using resin, the UV ray make chemical reaction.
 The is injet 3D printer. It is a 2 axis machine for simple 3D printing.
 Today I have seen different types machine as follows: 
+## Band Saw Cutter
 ![Band Saw Cutter](BandSaw.jpeg "Band Saw")
-![Vinyl Cutter](CNCMachine.jpeg "CNC")
+## CNC Machine
+![CNC Machine](CNCMachine.jpeg "CNC")
 
 ******* DAY 2 (19.03.2019) ******
 I downloaded Inkscape and cura software for configuring the 3D printing.
