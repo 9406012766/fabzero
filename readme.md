@@ -31,5 +31,7 @@ In "Git Bash" window, write the command "git config --global user.email "suvadip
 and also write command "git config --global user name "Suvadip Barua".
 Then refresh the web page "https://github.com/9406012766/fabzero". "fabzero" is the document folder in the computer.
 To see the day to day work contribution of each person, open the web page "https://github.com/9406012766", then a daily contribution graph will graph will appear of that user.
-
+To upload the Image, first save the specific image in .jpg format in the "Fabzero" folder.
+Then that image name will appear in "Visual Studeo Code" software. The write the command "![alt text](....jpeg "Text").
+Then in the same above process have to push the image in the web site "https://github.com/9406012766/fabzero" and refresh the web site to see the update effect.
 ![Vinyl Cutter](vinylcutter.jpeg "vinyl")
