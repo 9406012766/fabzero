@@ -1,4 +1,4 @@
-******** DAY - 1 (18.03.2019) ******
+## ******** DAY - 1 (18.03.2019) ******
 
  Hi, I am Suvadip Barua from STPI-Kolkata
 I visited fab lab Bhubaneswar on 18.03.2019 and had seen equipment installed in fabrication lab. 
@@ -32,7 +32,7 @@ Today I have seen different types machine as follows:
 ## Stereo Lathhography Printer
 ![Stereo Lathography Printer](Stereolethographyprinter.jpeg "Stereo Lathography Printer")
 
-******* DAY 2 (19.03.2019) ******
+## ******* DAY 2 (19.03.2019) ******
 I downloaded Inkscape and cura software for configuring the 3D printing.
 Then downloaded "Windows - Git" then press control + shift + P.
 Then ">git:clone ........" will appear.
