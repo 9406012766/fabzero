@@ -18,5 +18,11 @@ There is Formlabs 3D printer. It is stereo lethography. Using resin, the UV ray 
 The is injet 3D printer. It is a 2 axis machine for simple 3D printing.
 
 ******* DAY 2 (19.03.2019) ******
-
+I downloaded Inkscape and cura software for configuring the 3D printing.
+Then downloaded "Windows - Git" then press control + shift + P.
+Then ">git:clone ........" will appear.
+Then copy the URL from "www.github.com/9406012766/Suvadip" from "clone with HTTPS" option.
+And past the above URL in Visual Studio Code software to upload the day to day work documents.
+To making any changes/ corrections in the datasheet of Visual Studeo Code, after making the changes/ correction, a massage will appear in "Source Control" the save it by clicking Control + S.
+After saving the corrections, another massage will arrear to commit. Write the any commit name. Exam: "Test". After that click on "Tick" mark.
 ![Vinyl Cutter](vinylcutter.jpeg "vinyl")
