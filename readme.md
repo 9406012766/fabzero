@@ -17,6 +17,6 @@ There is a 3D printer of model 3DWOX, make Sindoh. It is Fused Filament diposion
 There is Formlabs 3D printer. It is stereo lethography. Using resin, the UV ray make chemical reaction.
 The is injet 3D printer. It is a 2 axis machine for simple 3D printing.
 
-******* DAY 2 (19.03.2019)******
+******* DAY 2 (19.03.2019) ******
 
 ![Vinyl Cutter](vinylcutter.jpeg "vinyl")
