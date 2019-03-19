@@ -14,4 +14,4 @@ There is Laser cutter of Epilog Laser, Fussion M2. It is a 3 axis cutting machin
 There is a Filttering machine of PureX. It is used extract the gases and micro particles which is produced during the cutting.
 There is a 3D printer of model 3DWOX, make Sindoh. It is Fused Filament diposion. The plastic materials liquified and when printing going on, the material getting hard.
 There is Formlabs 3D printer. It is stereo lethography. Using resin, the UV ray make chemical reaction.
-The is injet 3D printer. It is a 2 axis machinefor simple 3D printing.
+The is injet 3D printer. It is a 2 axis machine for simple 3D printing.
