@@ -22,7 +22,7 @@ Today I have seen different types machine as follows:
 ## CNC Machine
 ![CNC Machine](CNCMachine.jpeg "CNC")
 ## Ink Jet Printer
-![Ink Jet Printer](InkJetPrinter.jpeg "Ink Jet Printer")
+![Ink Jet Printer](Inkjetprinter.jpeg "Ink Jet Printer")
 
 ******* DAY 2 (19.03.2019) ******
 I downloaded Inkscape and cura software for configuring the 3D printing.
