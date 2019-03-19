@@ -41,4 +41,5 @@ Each side atleast 2mm space should be kept.
 The side margine of the sheet should be in the level of machine marked level.
 This machine Make "Roland" model "CAMM 1 GS-24".
 ## Sindoh 3D Printer
+
 ![Sindoh 3D Printer](sindoh.jpeg "Sindoh")
