@@ -3,7 +3,7 @@
 I visited fab lab Bhubaneswar on 18.03.2019 and had seen equipment installed in fabrication lab. 
 Listen the primary demo of different CNC (Computer Numerical Control") machines like Band Saw Cutter,Scroll Saw. 
 There are Small CNC Machine like SRM-2 (DG Shape) model. 
-The Shopbot CNC machine is 3 axis machine. It's size is 96" x 48". It is used to fabricate preferably wood, alluminium. It's cutrting length is 12".
+The Shopbot CNC machine is 3 axis machine. It's size is 96" x 48". It is used to fabricate preferably wood, alluminium. It's cutting length is 12".
 The Saw cutter make WEN is the big hacksaw blade.
 The Scroll saw cutter is the thin hacksaw blade and the material we may move any direction for perfact cutting.
 The Band & Scroll Saw both are 3D cutter.
