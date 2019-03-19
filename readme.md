@@ -15,4 +15,4 @@ There is a Filttering machine of PureX. It is used extract the gases and micro p
 There is a 3D printer of model 3DWOX, make Sindoh. It is Fused Filament diposion. The plastic materials liquified and when printing going on, the material getting hard.
 There is Formlabs 3D printer. It is stereo lethography. Using resin, the UV ray make chemical reaction.
 The is injet 3D printer. It is a 2 axis machinefor simple 3D printing.
-   STPI
+Bhubanesar
