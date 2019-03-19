@@ -28,6 +28,6 @@ After saving the corrections, another massage will arrear to commit. Write the a
 Then from the .....(dotted) option click on "Push".
 Whenever click on "Push" button "Git Bash" window will be opened. 
 In "Git Bash" window, write the command "git config --global user.email "suvadip.barua@stpi.in"
-and also write command "git config --global 
+and also write command "git config --global user name "Suvadip Barua".
 Then refresh the web page "https://github.com/9406012766/fabzero". "fabzero" is the document folder in the computer.
 ![Vinyl Cutter](vinylcutter.jpeg "vinyl")
