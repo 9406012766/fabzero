@@ -29,6 +29,8 @@ Today I have seen different types machine as follows:
 ![Laser Cutter Machine](Lasercutter.jpeg "Laser Cutter Machine")
 ## Scroll Saw Cutter 
 ![Scroll Saw Cutter](Scrollsawcutter.jpeg "Scroll Saw Cutter")
+## Stereo Lathhography Printer
+![Stereo Lathography Printer](Stereolethographyprinter.jpeg "Stereo Lathography Printer")
 
 ******* DAY 2 (19.03.2019) ******
 I downloaded Inkscape and cura software for configuring the 3D printing.
