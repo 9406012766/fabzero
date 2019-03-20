@@ -1,14 +1,14 @@
-## Introduction
+## Self Introduction
+
+
+
+
+[introduction](Introduction.md)
 
 
 ![Suvadip Barua](img/suvadipbarua.jpg "Suvadip Barua")
 
-[introduction](Introduction.md)
 
-Hi, myself is Suvadip Barua, Sr. Technical Assistant from STPI-Kolkata.
-I came to attend the "FabLab" Trainning program from 18.03.2019 to 05.04.2019 at STPI-Bhubaneswar.
-Our Lab Intructors are Mr. Fansisco from Spain and Mr.Shibu from India.
-It's a great support and encouragement of STPI-Bhubanewsar for "FabLab" trainning.
 
 There are Small CNC Machine like SRM-2 (DG Shape) model. 
 The Shopbot CNC machine is 3 axis machine. It's size is 96" x 48". It is used to fabricate preferably wood, alluminium. It's cutting length is 12".
