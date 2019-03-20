@@ -11,6 +11,10 @@
 [day-1](day-1.md)
 
 
+## Equipments Installed in FabLab
+
+
+[Equipment](differentequipt.md)
 
 
 ## ******* DAY 2 (19.03.2019) ******
