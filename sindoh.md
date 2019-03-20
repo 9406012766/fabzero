@@ -1,5 +1,7 @@
 ## Sindoh 3D Printer
+
 ![Sindoh 3D Printer](img/sindoh.jpeg "sindoh")
+
 The Sindoh 3D Printer Model is 3D WOX.
 There are Four option in the touch screen of the printer i.e. Print, Cartidge, Setting and Info.
 There are two cooling fan inside this printer.
@@ -9,7 +11,9 @@ Then the filament/ cartidge can be removed from the casing.
 The filament / cartidge diameter is 1.75mm.
 There is a Chip (Intregated Circuit) which helps this machine to identify the lenght, color & physical property of the material which have to print.
 The Filament/ Cartidge is made of "Poly Lactic Acide (PLA)". 
+
 ## Sindoh Printout 3D Model
+
 ![Sindoh Printout 3D Model](img/sindohprintmodel.jpeg "Sindoh Printout 3D Model")
 
 The febricated loose end must be tight with clip of this 3D printer
