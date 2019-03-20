@@ -6,7 +6,7 @@
 [introduction](Introduction.md)
 
 
-![Suvadip Barua](img/suvadipbarua.jpg "Suvadip Barua")
+
 
 
 
