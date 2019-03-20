@@ -8,6 +8,7 @@
 
 ## Day 1
 
+[day-1](day-1.md)
 
 
 Today I have seen different types machine as follows: 
