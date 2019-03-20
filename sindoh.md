@@ -11,4 +11,5 @@ There is a Chip (Intregated Circuit) which helps this machine to identify the le
 The Filament/ Cartidge is made of "Poly Lactic Acide (PLA)". 
 ## Sindoh Printout 3D Model
 ![Sindoh Printout 3D Model](img/sindohprintmodel.jpeg "Sindoh Printout 3D Model")
+
 The febricated loose end must be tight with clip of this 3D printer
