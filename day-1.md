@@ -1,9 +1,6 @@
 ## Day 1
 
 
-
-
-
 There are Small CNC Machine like SRM-2 (DG Shape) model. 
 The Shopbot CNC machine is 3 axis machine. It's size is 96" x 48". It is used to fabricate preferably wood, alluminium. It's cutting length is 12".
 The Saw cutter make WEN is the big hacksaw blade.
