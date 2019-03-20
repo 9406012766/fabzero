@@ -1,5 +1,5 @@
 ## Sindoh 3D Printer
-![Sindoh 3D Printer](sindoh.jpeg "sindoh")
+![Sindoh 3D Printer](img/sindoh.jpeg "sindoh")
 The Sindoh 3D Printer Model is 3D WOX.
 There are Four option in the touch screen of the printer i.e. Print, Cartidge, Setting and Info.
 There are two cooling fan inside this printer.
