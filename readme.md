@@ -1,8 +1,15 @@
-## ******** DAY - 1 (18.03.2019) ******
+## Introduction
 
- Hi, I am Suvadip Barua from STPI-Kolkata
-I visited fab lab Bhubaneswar on 18.03.2019 and had seen equipment installed in fabrication lab. 
-Listen the primary demo of different CNC (Computer Numerical Control") machines like Band Saw Cutter,Scroll Saw. 
+
+![Suvadip Barua](img/suvadipbarua.jpg "Suvadip Barua")
+
+[introduction](Introduction.md)
+
+Hi, myself is Suvadip Barua, Sr. Technical Assistant from STPI-Kolkata.
+I came to attend the "FabLab" Trainning program from 18.03.2019 to 05.04.2019 at STPI-Bhubaneswar.
+Our Lab Intructors are Mr. Fansisco from Spain and Mr.Shibu from India.
+It's a great support and encouragement of STPI-Bhubanewsar for "FabLab" trainning.
+
 There are Small CNC Machine like SRM-2 (DG Shape) model. 
 The Shopbot CNC machine is 3 axis machine. It's size is 96" x 48". It is used to fabricate preferably wood, alluminium. It's cutting length is 12".
 The Saw cutter make WEN is the big hacksaw blade.
