@@ -21,3 +21,6 @@
 
 [Sindoh 3D Printer](sindoh.md)
 
+## CNC Machine
+
+[CNC Machine](cncmachine.md)

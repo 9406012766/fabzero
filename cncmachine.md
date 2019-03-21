@@ -1,5 +1,7 @@
 ## CNC Machine
+
 ![CNC Machine](img/CNCMachine.jpeg "CNC")
+
 With enough production capability for a three-shift factory, ShopBot PRSalpha tools are our toughest, most sophisticated, gantry-based CNC.
 
 Using advanced technology for CNC cutting, drilling, carving and machining, the PRSalpha series tools deliver rapid transit speeds of 1800 inches per minute and cutting speeds of up to 600 inches per minute.
