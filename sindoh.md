@@ -12,7 +12,8 @@ The filament / cartidge diameter is 1.75mm.
 There is a Chip (Intregated Circuit) which helps this machine to identify the lenght, color & physical property of the material which have to print.
 The Filament/ Cartidge is made of "Poly Lactic Acide (PLA)". 
 
-![Sindoh 3D Printer's Cartidge](img/cartidgeinsidecasesindoh.jpeg "Sindoh 3D Printer's Cartidge")
+
+![Sindoh 3D Printer's Cartidge](img/cartidgeinsidecase.jpeg "Sindoh 3D Printer's Cartidge")
 
 I printed an image downloaded from www.thingiverse.com
 
