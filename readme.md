@@ -29,7 +29,7 @@
 
 [Band Saw Cutter](Bandsawcutter.md)
 
-## Scrll Saw Cutter
+## Scroll Saw Cutter
 
-[Scroll Saw Cutter](Scrollsawcutter.md)
+[Scroll Saw Cutter](scrollsawcutter.md)
 
