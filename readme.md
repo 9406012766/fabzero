@@ -32,3 +32,7 @@
 ## Scroll Saw Cutter
 
 [Scroll Saw Cutter](scrollsawcutter.md)
+
+## Laser Cutter
+
+[Laser Cutter](lasercutter.md)
