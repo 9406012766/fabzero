@@ -11,4 +11,4 @@ To print any text or object and to edit that text or object, "InkScape" software
 ![Vinyl Cutter Machine](img/rolandvinyl.jpg "vinyl")
 
 
-![Vinyl Cutting Text in .png Format](img/suvadipvinyl.jpg "Vinyl Cutting Text")
+![Vinyl Cutting Text in .png Format](img/suvadipvinyl.png "Vinyl Cutting Text")
