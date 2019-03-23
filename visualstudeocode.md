@@ -1,5 +1,7 @@
 ## "Visual Studio Code (VSC)"
 
+First we have to creat "readme.md" file.
+Then we may creat separate files for each description and may link that files with readme.md file.
  Write any data for documentation and save by Ctrl + S. Save the file in".md" format.
  A massage will appear in "Source Control". Here write any "Comment" like "Test", then click on "Tick" mark & then from "....." mark click on "Push".
  Then open "Git Bash" from window button.
