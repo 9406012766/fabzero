@@ -1,4 +1,4 @@
-## Steps to creat a account in Github and link with Visual Studio Code (VSC) 
+## Steps to creat a account in Github 
 
 To creat an account in Github web site following steps has to follow:
 
