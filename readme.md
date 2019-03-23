@@ -17,9 +17,9 @@
 
 [Equipment](differentequipt.md)
 
-## Process to Creat an account in "Github"
+## Steps to creat a account in Github and link with Visual Studio Code (VSC)
 
-
+[creat a account in Github and link with Visual Studio Code (VSC)](gitaccount.md)
 
 
 ## Sindoh 3D Printer
