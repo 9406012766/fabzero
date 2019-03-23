@@ -4,7 +4,7 @@
 
 ## Certificate Name
 
-[Certificate Name](certificatename.md)
+(certificatename.md)
 
 
 ## Day 1
