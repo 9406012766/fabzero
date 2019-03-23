@@ -8,4 +8,5 @@ Then download "Windows-Git". After pressing "Ctrl + Shift + p", ">git:clone" wil
 Creat "New File".
 Created a folder "FabLab-Bhubaneswar". 
 Created anothet folder "fabzero" inside the "FabLab-Bhubanesawr" folder and put the ".git" folder in it.
-
+Downloaded "Visual Studio Code (VSC)" for the programming to creat files, day to day work documents, images etc.
+Now copy the URL "https://github.com/9406012766/suvadip" from "clone with HTTPS".
