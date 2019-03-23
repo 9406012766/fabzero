@@ -14,6 +14,7 @@ The Filament/ Cartidge is made of "Poly Lactic Acide (PLA)".
 "3D WOX" Sindoh software has to be downloaded and from "www.thingiverse.com" select  & save the pic. which have to 3D print.
 Then load that pic through "3D WOX" Sindoh software.
 
+
 ![Sindoh 3D Printer's Cartidge](img/cartidgeinsidecase.jpeg "Sindoh 3D Printer's Cartidge")
 
 I printed an image downloaded from www.thingiverse.com
