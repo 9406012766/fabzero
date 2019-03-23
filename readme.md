@@ -33,7 +33,7 @@
 
 [Band Saw Cutter](Bandsawcutter.md)
 
-## Scroll Saw Cutter Machine
+## Scroll Saw Cutter 
 
 [Scroll Saw Cutter](scrollsaw.md)
 
