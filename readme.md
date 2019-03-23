@@ -26,9 +26,13 @@
 To see the daily contibution garph, open "https://github.com/9406012766.
 It will show the  daily contributions of the specific user.
 
-## "Visual Studio Code (VSC)" 
+## Visual Studio Code (VSC) 
 
 [Visual Studeo Code(VSC)](visualstudeocode.md)
+
+## Uploading of Image in Visual Studio Code (VSC)
+
+[Uploading of Image in VSC](uploadingimgvsc.md)
 
 
 ## Sindoh 3D Printer
