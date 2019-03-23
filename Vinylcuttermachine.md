@@ -18,6 +18,7 @@ To move the text, click on the "Pointer" option and click on the text, so the te
 To select the 'width' & 'Hight' of the text, click on "file" option & select "Document Properties".
 Now, send the save ".png" file to print.
 
+
 ![Vinyl Cutter Machine](img/rolandvinyl.jpg "vinyl")
 
 ## Vinyl Cutting Text in .png Format:
