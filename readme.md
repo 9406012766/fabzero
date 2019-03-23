@@ -23,7 +23,7 @@
 
 ## Vinyl Cutter Printer
 
-[Vinyl Cutter Printer](vinylcuttermachine.md)
+[Vinyl Cutter Printer](Vinylcuttermachine.md)
 
 ## CNC Machine
 
