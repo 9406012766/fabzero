@@ -75,4 +75,4 @@ It will show the  daily contributions of the specific user.
 
 ## Electronics
 
-[PCB Board circuit Design](electronic.md)
+[PCB Board circuit Design](electronics.md)
