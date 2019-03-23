@@ -50,3 +50,7 @@
 ## InkJet Printer
 
 [InkJet Printer](inkjetprinter.md)
+
+## Stereo Lithography 3D Printer
+
+[Stereo Lithography 3D Printer](img/stereolithographyprinter.jpeg)
