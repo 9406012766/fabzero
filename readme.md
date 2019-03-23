@@ -21,6 +21,11 @@
 
 [Creat a account in Github](gitaccount.md)
 
+## Git Graph
+
+To see the daily contibution garph, open "https://github.com/9406012766.
+It will show the  daily contributions of the specific user.
+
 ## "Visual Studio Code (VSC)" 
 
 [Visual Studeo Code(VSC)](visualstudeocode.md)
