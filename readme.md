@@ -4,7 +4,7 @@
 
 ## Certificate Name
 
-["FontStyle:Italic" ## Certificate Name](## certificatename.md)
+!["FontStyle:Italic" ## Certificate Name](## certificatename.md)
 
 
 ## Day 1
