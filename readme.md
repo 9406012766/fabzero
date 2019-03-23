@@ -1,14 +1,11 @@
 ## Self Introduction
 
-
-
-
-[introduction](Introduction.md)
+[Self Introduction](Introduction.md)
 
 
 ## Day 1
 
-[day-1](day-1.md)
+[Day-1](day-1.md)
 
 
 ## Equipments Installed in FabLab
