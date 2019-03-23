@@ -4,7 +4,7 @@
 
 ## Certificate Name
 
-[Certificate Name](certificatename.md)
+## Certificate Name: SUVADIP BARUA
 
 
 ## Day 1

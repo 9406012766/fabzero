@@ -1,3 +1,0 @@
-## Certificate Name
-
-## SUVADIP BARUA
