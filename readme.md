@@ -21,7 +21,9 @@
 
 [Sindoh 3D Printer](sindoh.md)
 
+## Vinyl Cutter Printer
 
+[Vinyl Cutter Printer](vinylcuttermachine.md)
 
 ## CNC Machine
 
