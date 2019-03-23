@@ -12,6 +12,7 @@ To print any text or object and to edit that text or object, "InkScape" software
 Open https://mods.cba.mit.edu and write click any where, the click on "Program" then click on "Open Sever Program". Then select the machine "Vinyl Cutter GX-24 cut png". A circuit will appear.
 Then select ".png" file which was already selected. Make speed (cm/s)=20.
 Then connect I/p and O/p. It will calculate and make a line between I/p and O/p.
+
 Make box and write the text "suvadip" in Bold.
 To move the text, click on the "Pointer" option and click on the text, so the text will move.
 To select the 'width' & 'Hight' of the text, click on "file" option & select "Document Properties".
