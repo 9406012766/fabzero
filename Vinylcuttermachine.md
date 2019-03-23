@@ -12,5 +12,4 @@ To print any text or object and to edit that text or object, "InkScape" software
 
 ## Vinyl Cutting Text in .png Format
 
-
 ![Vinyl Cutting Text in .png Format](img/suvadipvinyl.png "Vinyl Cutting Text")
