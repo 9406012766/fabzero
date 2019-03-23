@@ -11,7 +11,8 @@ Then the filament/ cartidge can be removed from the casing.
 The filament / cartidge diameter is 1.75mm.
 There is a Chip (Intregated Circuit) which helps this machine to identify the lenght, color & physical property of the material which have to print.
 The Filament/ Cartidge is made of "Poly Lactic Acide (PLA)". 
-
+"3D WOX" Sindoh software has to be downloaded and from "www.thingiverse.com" select  & save the pic. which have to 3D print.
+Then load that pic through "3D WOX" Sindoh software.
 
 ![Sindoh 3D Printer's Cartidge](img/cartidgeinsidecase.jpeg "Sindoh 3D Printer's Cartidge")
 
