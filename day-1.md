@@ -1,4 +1,4 @@
-## Day 1
+## Introductory Day 18.03.2019
 
 
 There are Small CNC Machine like SRM-2 (DG Shape) model. 
