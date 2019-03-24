@@ -1,12 +1,9 @@
-## Steps to creat a account in Github 
+## Setup for FabLab 
 
 To creat an account in Github web site following steps has to follow:
 
-Open "https://github.com/academany/fabzero" site.
+Open "https://github.com" site.
 Creat an account with Login ID and Password.
-Then download "Windows-Git". After pressing "Ctrl + Shift + p", ">git:clone" will appear.
-Creat "New File".
-Created a folder "FabLab-Bhubaneswar". 
-Created anothet folder "fabzero" inside the "FabLab-Bhubanesawr" folder and put the ".git" folder in it.
-Downloaded "Visual Studio Code (VSC)" for the programming to creat files, day to day work documents, images etc.
-Now copy the URL "https://github.com/9406012766/fabzero" from "clone with HTTPS".
+Then download Visual Source Code (VSC).
+Creat "readme.md" file in which content would be saved.
+Then Cloning was done in "FabLab" folder. A repository was asked by VSC. The repository can be obtained from "https://github.com/9406012766/fabzero" and select "your repository", click on "fabzero", click on "clone or download", copy the repository link and past it in VSC by opening "New Window" by pressing "Ctrl + Shift + p".
