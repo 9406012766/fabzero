@@ -12,7 +12,7 @@ Tools and machinery
 Relief plaques and graphics Vehicle prototypes
 Game and model parts.
 
-## Experiment 
+## Experiment: 
 
 ## Prototyping
 
