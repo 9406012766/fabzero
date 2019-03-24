@@ -7,9 +7,9 @@
 ## Certificate Name: SUVADIP BARUA
 
 
-## Day 1
+## Introductory Day 18.03.2019
 
-[Day-1](day-1.md)
+[Introductory Day 18.03.2019](day-1.md)
 
 
 ## Equipments Installed in FabLab
