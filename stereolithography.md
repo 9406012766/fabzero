@@ -36,5 +36,5 @@ Now to design new PCB board, click on "PCBnew" option. Click on "Net" option  an
 Click on "updatepcb" button to update any specific component.
 Then select "Route Track" optionand drag the route track line as per the white lines of the ckt.
 
-Download "fab.pretty" & save in "KiCad Project" folder.
-Click on "Assign PCB Foot Print", select "Preference", click on "Manage FootPrint Libraries", click on "project Specific Libraries", click on "Folder" to select "Feb.Pretty". This will show "Active (Tick)", Library path, plugin type (kicad).
+Every changes have to save in "KiCad Project" folder.
+Click on "Assign PCB Foot Print", select "Preference", click on "Manage FootPrint Libraries", click on "project Specific Libraries". This will show "Active (Tick)", Library path, plugin type (kicad).
