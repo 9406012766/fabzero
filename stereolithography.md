@@ -29,6 +29,9 @@ After completion of drawing of the ckt., click on "Annotate Schematic Symbol", t
 You may found different types of connection error  and have to correct these as per the error instructions.
 After final completion with any error, click on "Footprint" option. Then select every Resistor, LED etc. 
 Click on "Generate Netlist" and save it as ".net" format. Example: "Test.net".
+
+## PCB Designing
+
 Now to design new PCB board, click on "PCBnew" option. Click on "Net" option  and select "Test.net" which was already saved.
 Click on "updatepcb" button to update any specific component.
 Then select "Route Track" optionand drag the route track line as per the white lines of the ckt.
