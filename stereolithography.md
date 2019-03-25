@@ -39,6 +39,10 @@ Then select "Route Track" optionand drag the route track line as per the white l
 Every changes have to save in "KiCad Project" folder.
 Click on "Assign PCB Foot Print", select "Preference", click on "Manage FootPrint Libraries", click on "project Specific Libraries". This will show "Active (Tick)", Library path, plugin type (kicad).
 
+![KiCad](img/kicad.jpeg")
+
+![KiCad](img/kicad1.jpeg")
+
 ## PCB Cutting
 
 After final circuit designing, open "FreeCad".
