@@ -49,10 +49,22 @@ It will save ".svg" file in "KiCad Project" folder, then open "Inkscape" choose 
 Then click on "Export PNG image".
 Select the circuit image in ".svg" file by pressing "Shift + Pointer" and then save.
 
+Now, download "Trace" and "Cut" file. Then convert both files into ".rml" format.
+Select "Input Format", select ".png" image.
+Select "Output Format" select "Roland Mill (.rml)" (.camm), click on "Process (1/64), then select "dpi=2000", select machine "SRM 20", select speed "4". 
+Save the "GCode" of the image.
+Now click on "Calculate" and save it in "KiCad Project" folder.
+Save the final image in ".stl" format and put it to "Sindoh" to print.
+
+
 ## Making a Object in "FreeCad"
 
 Download and install "FreeCad".
 Open FreeCad and click on File option click on "New".
 Select "Part", click on "Box" mark, click on "Set to Axonometice View".
 Then maximise the screen, in the buttom right side click on "Gester", so we can move the object by clicking the mouse on it.
- 
+There are three axis like x,y, z.
+Then click on "Model", click on "Cube" & put the lenght, height and width of the object.
+Select again select another object like "Cylinder". Also put the lenght, height and width of the object.
+Now, click on "Run a Boolean Operation" with two shapes selected".
+To save the final image, click on "File", select "Export", select "STL.Mesh". This will save the file in ".stl" format.
