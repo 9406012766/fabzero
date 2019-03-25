@@ -56,5 +56,15 @@ Save the "GCode" of the image.
 Now click on "Calculate" and save it in "KiCad Project" folder.
 Save the final image in ".stl" format and put it to "Sindoh" to print.
 
+## Steps for the cutting of PCB by Stereo Lithography 3D Printer
+
+Download "Vpond" software to operate the SRM-20 to cut the PCB.
+There are up, down, right and left arrow mark to move the drolling bit.
+Put the value of x,y, and z axis. Speed = 100.
+By click alignment key, we can tight the cutting niddle.
+Select"Trace" to cut the circuit.
+Select "Cut" to cut the outer part of the circuit of the pcb board.
+
+
 
 
