@@ -38,3 +38,21 @@ Then select "Route Track" optionand drag the route track line as per the white l
 
 Every changes have to save in "KiCad Project" folder.
 Click on "Assign PCB Foot Print", select "Preference", click on "Manage FootPrint Libraries", click on "project Specific Libraries". This will show "Active (Tick)", Library path, plugin type (kicad).
+
+## PCB Cutting
+
+After final circuit designing, open "FreeCad".
+Click on "Edge.cats. Then click on Triangle mark and then click on "Add Graphic Line".
+Now draw yellow lines by clicking every angle to creat a box. Each line size is .08mm.
+From "File" select "plot", select "SVG", select only "F.Cu" and "Edge.cuts". Then from "General Option" select "Exclude pads from silk screen", "Negetive plot", "Check Zone and "all". Then click on "Plot".
+It will save ".svg" file in "KiCad Project" folder, then open "Inkscape" choose that file & open.
+Then click on "Export PNG image".
+Select the circuit image in ".svg" file by pressing "Shift + Pointer" and then save.
+
+## Making a Object in "FreeCad"
+
+Download and install "FreeCad".
+Open FreeCad and click on File option click on "New".
+Select "Part", click on "Box" mark, click on "Set to Axonometice View".
+Then maximise the screen, in the buttom right side click on "Gester", so we can move the object by clicking the mouse on it.
+ 
