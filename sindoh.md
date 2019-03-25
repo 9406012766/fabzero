@@ -24,3 +24,15 @@ I printed an image downloaded from www.thingiverse.com
 ![Sindoh Printout 3D Model](img/sindohprintmodel.jpeg "Sindoh Printout 3D Model")
 
 The febricated loose end must be tight with clip of this 3D printer
+
+## Making a Object in "FreeCad"
+
+Download and install "FreeCad".
+Open FreeCad and click on File option click on "New".
+Select "Part", click on "Box" mark, click on "Set to Axonometice View".
+Then maximise the screen, in the buttom right side click on "Gester", so we can move the object by clicking the mouse on it.
+There are three axis like x,y, z.
+Then click on "Model", click on "Cube" & put the lenght, height and width of the object.
+Select again select another object like "Cylinder". Also put the lenght, height and width of the object.
+Now, click on "Run a Boolean Operation" with two shapes selected".
+To save the final image, click on "File", select "Export", select "STL.Mesh". This will save the file in ".stl" format.
