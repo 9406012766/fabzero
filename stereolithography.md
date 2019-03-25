@@ -69,6 +69,10 @@ By click alignment key, we can tight the cutting niddle.
 Select"Trace" to cut the circuit.
 Select "Cut" to cut the outer part of the circuit of the pcb board.
 
+![PCB Cutting](img/pcbborder.jpeg")
 
+![PCB Cutting](img/pcbfinal.jpeg")
 
+![PCB Cutting](img/pcbcutting.jpeg")
 
+![PCB Cutting](img/pbcmachinemenu.jpeg")
