@@ -23,4 +23,4 @@ Now, send the save ".png" file to print.
 
 ## Vinyl Cutting Text in .png Format:
 
-![Vinyl Cutting Text in .png Format](img/suvadipvinyl.png "Vinyl Cutting Text")
+![Vinyl Cutting Text in .png Format](img/suva.png "Vinyl Cutting Text")
