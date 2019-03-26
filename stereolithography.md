@@ -66,6 +66,8 @@ Save the final image in ".stl" format and put it to "Sindoh" to print.
 
 ![GCode & FreeCad Files](img/gcode.jpeg "GCode & FreeCad Files")
 
+![FreeCad Design](img/freecad.jpeg "FreeCad Design")
+
 ## Steps for the cutting of PCB by Stereo Lithography 3D Printer
 
 Download "Vpanel" software to operate the SRM-20 to cut the PCB.
