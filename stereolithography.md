@@ -41,7 +41,6 @@ Click on "Assign PCB Foot Print", select "Preference", click on "Manage FootPrin
 
 ![KiCad](img/kicad.jpeg")
 
-![KiCad](img/kicad1.jpeg")
 
 ## PCB Cutting
 
