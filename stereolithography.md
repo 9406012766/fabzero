@@ -62,6 +62,8 @@ Save the "GCode" of the image.
 Now click on "Calculate" and save it in "KiCad Project" folder.
 Save the final image in ".stl" format and put it to "Sindoh" to print.
 
+![Trace & Cut](img/tracecut.jpeg "Trace & Cut")
+
 ## Steps for the cutting of PCB by Stereo Lithography 3D Printer
 
 Download "Vpond" software to operate the SRM-20 to cut the PCB.
