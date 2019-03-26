@@ -76,3 +76,4 @@ Select "Cut" to cut the outer part of the circuit of the pcb board.
 
 ![PCB Machine](img/pcbmenu.jpeg "PCB Menu")
 
+![PCB Cutting](img/pcbcutting.jpeg "PCB Cutting")
