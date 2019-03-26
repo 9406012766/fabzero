@@ -81,3 +81,16 @@ Select "Cut" to cut the outer part of the circuit of the pcb board.
 ![PCB Machine](img/pcbmenu.jpeg "PCB Menu")
 
 ![PCB Cutting](img/pcbcutting.jpeg "PCB Cutting")
+
+## FreeCad
+
+Download the "FreeCad".
+Select "Cylinder"  then from "Creation of Parametrized Geometric Primitives" select "Regular Polygon".
+Select the sizes of the cylinders and triangle.
+Select "Extrude" and then select "Along Normal".
+Then select "shapes and "Difference" and apply.
+Now, to save from "File", select "Export", select the image and select ".stl" formate.
+To save it's "Gcode", open sindoh software.
+Load in Sindoh by selecting that ".stl" image.
+Now, from Sindoh, select File, Selct " Save Gcode" of that image and save it in "FreeCad" folder.
+ 
