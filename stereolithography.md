@@ -66,7 +66,7 @@ Save the final image in ".stl" format and put it to "Sindoh" to print.
 
 ## Steps for the cutting of PCB by Stereo Lithography 3D Printer
 
-Download "Vpond" software to operate the SRM-20 to cut the PCB.
+Download "Vpanel" software to operate the SRM-20 to cut the PCB.
 There are up, down, right and left arrow mark to move the drolling bit.
 Put the value of x,y, and z axis. Speed = 100.
 By click alignment key, we can tight the cutting niddle.
