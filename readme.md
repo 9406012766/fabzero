@@ -52,6 +52,10 @@ It will show the  daily contributions of the specific user.
 
 [3D Scanner](scanner.md)
 
+## MonoFab CNC
+
+[MonoFab CNC Machine](monofabcnc.md)
+
 
 ## Band Saw Cutter
 
@@ -77,5 +81,5 @@ It will show the  daily contributions of the specific user.
 
 ## Stereo Lithography 3D Printer
 
-[Stereo Lithography 3D Printer](stereolithography.md)
+
 
