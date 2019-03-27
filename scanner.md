@@ -8,3 +8,5 @@ Now move the Scanner slowly arround the head.
 After full scanning, edit the image by "Earase" or "Trim" option.
 After final completion, click on "Finish" and save it in ".slt" format.
 Now, that ".stl" image may print by loading in "Sindoh software".
+
+![CNC Machine](img/CNCMachine.jpeg "CNC")

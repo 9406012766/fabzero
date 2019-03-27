@@ -48,6 +48,11 @@ It will show the  daily contributions of the specific user.
 
 [CNC Machine](cncmachine.md)
 
+## 3D Scanner
+
+[3D Scanner](scanner.md)
+
+
 ## Band Saw Cutter
 
 [Band Saw Cutter](Bandsawcutter.md)
@@ -68,6 +73,7 @@ It will show the  daily contributions of the specific user.
 ## InkJet Printer
 
 [InkJet Printer](inkjetprinter.md)
+
 
 ## Stereo Lithography 3D Printer
 
