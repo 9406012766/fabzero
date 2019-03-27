@@ -66,7 +66,7 @@ Save the final image in ".stl" format and put it to "Sindoh" to print.
 
 ![GCode & FreeCad Files](img/gcode.jpeg "GCode & FreeCad Files")
 
-![FreeCad Design](img/freecad.jpeg "FreeCad Design")
+![PCB Cutted by MonoFab CNC](img/pcb.jpeg "Cutted PCB")
 
 ## Steps for the cutting of PCB by MonoFab CNC
 
