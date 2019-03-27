@@ -1,6 +1,6 @@
-## Stereo Lithography 3D Printer
+## MonoFab CNC Machine
 
-![Stereo Lithography 3D Printer](img/stereolithographyprinter.jpeg "Stereo Lithography ")
+![MonoFab CNC Machine](img/monofab.jpeg "MonoFab CNC Machine")
 
 It is also called Desktop Milling Machine.
 With the SRM-20 3D milling machine, 3D data can be shaped into solid objects with exceptional precision. Capable of milling a wide range of materials, the SRM-20 is invaluable for industrial design prototypes, industrial parts, educational tools.
@@ -68,7 +68,7 @@ Save the final image in ".stl" format and put it to "Sindoh" to print.
 
 ![FreeCad Design](img/freecad.jpeg "FreeCad Design")
 
-## Steps for the cutting of PCB by Stereo Lithography 3D Printer
+## Steps for the cutting of PCB by MonoFab CNC
 
 Download "Vpanel" software to operate the SRM-20 to cut the PCB.
 There are up, down, right and left arrow mark to move the drolling bit.
