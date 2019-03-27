@@ -99,3 +99,5 @@ Load in Sindoh by selecting that ".stl" image.
 Now, from Sindoh, select File, Selct " Save Gcode" of that image and save it in "FreeCad" folder.
 
  ![FreeCad](img/freecad.jpeg "FreeCad")
+
+![FreeCad Fusion](img/freecad1.jpeg "FreeCad Fusion")
