@@ -9,6 +9,6 @@ After full scanning, edit the image by "Earase" or "Trim" option.
 After final completion, click on "Finish" and save it in ".slt" format.
 Now, that ".stl" image may print by loading in "Sindoh software".
 
-![Scanning 3D Image](img/scan.jpeg) "Scanning Image"
+![Scanning 3D Image](img/scan.jpeg) "Scanning 3D Image"
 
 ![Scanned 3D Image](img/scanimage.jpeg "Scanned 3D Image")
