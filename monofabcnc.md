@@ -71,12 +71,16 @@ Save the final image in ".stl" format and put it to "Sindoh" to print.
 ## Steps for the cutting of PCB by MonoFab CNC
 
 Download "Vpanel" software to operate the SRM-20 to cut the PCB.
-There are up, down, right and left arrow mark to move the drolling bit.
-Put the value of x,y, and z axis. Speed = 100.
-By click alignment key, we can tight the cutting niddle.
-Select"Trace" to cut the circuit.
-Select "Cut" to cut the outer part of the circuit of the pcb board.
+Select Trace = 1/64 and cut = 1/32.
+For trace, select X axis = 0, Y axis = 0. Now take Z axis to the origin.
+Now loose the drilling nidle & pull down to the surface of the pcb board and again tight align key.
+Now make Z axis = 0.
+Now select "Machine Cordinate System" and  note down X & y axis origin value and take Z axis position 02mm. upward from the PCB bpard.
+Now select "Cut" option and select the "Trace.rml" file.
+Then click on "Output".
 
+For "Cut" pcb board, click on "xy" option to go back original potion which we set before.
+And adjust Z axis as before process and cut then click on "Output".
 
 ![PCB Machine](img/pcbmenu.jpeg "PCB Menu")
 
