@@ -22,4 +22,6 @@ Before sending the image to the printer, it is to make sure the compressed air a
 Once hit on print, it will send the job over to the Epilog but it will not start cutting until hitting the Green GO button on the front of the machine. 
 Once the printing begins never walk away from the machine while it is cutting your image.
 
-![Laser Cutter](img/Lasercutter.jpeg "Lase Cutter")
+![Uploading an Image](img/printing1.jpeg "Uploading an Image")
+
+![Color Scheme and Print Set Up](img/printing2.jpeg "Color Scheme and Print Set Up")
