@@ -1,6 +1,6 @@
 ## Stratasys Printer
 
-![Stratasys Printer](img/stratasys.jpeg "Stratasys Printer")
+![Stratasys Printer](img/stratasysprinter.jpeg "Stratasys Printer")
 
 Stratasys develops and manufactures 3D printing technologies available today.
 "PolyJet" is a 3D printing process that jets and cures thin layers of liquid photo polymer with UV energy. 
