@@ -74,9 +74,9 @@ It will show the  daily contributions of the specific user.
 
 [Purex Fume Extrators (Filter)](lasercutterfilter.md)
 
-## InkJet Printer
+## Stratasys Printer
 
-[InkJet Printer](inkjetprinter.md)
+[Stratasys Printer](stratasysprinter.md)
 
 
 ## Stereo Lithography 3D Printer
