@@ -70,9 +70,9 @@ It will show the  daily contributions of the specific user.
 
 [Laser Cutter](lasercutter.md)
 
-## Laser Cutter Filter
+## Purex Fume Extrators (Filter)
 
-[Laser Cutter Filter](lasercutterfilter.md)
+[Purex Fume Extrators (Filter)](lasercutterfilter.md)
 
 ## InkJet Printer
 
