@@ -13,4 +13,4 @@ Now, that ".stl" image may print by loading in "Sindoh software".
 
 ![Scanned 3D Image](img/scanimage.jpeg "Scanned 3D Image")
 
-![3D Printing by Sindoh](img/3dscanner.jpeg) "3D Printing by Sindoh"
+![3D Printing by Sindoh](img/3dscanner.jpeg "3D Printing by Sindoh")
