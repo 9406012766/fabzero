@@ -32,3 +32,7 @@ Today I have seen different types machine as follows:
 ## Sindoh 3D Printer
 
 ![Sindoh 3D Printer](img/sindoh.jpeg "Sindoh 3D Printer")
+
+## Sense 3D Scaner
+
+![Sense 3D Scaner](img/scan.jpeg "Sense 3D Scaner")
