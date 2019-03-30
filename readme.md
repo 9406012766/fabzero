@@ -79,7 +79,7 @@ It will show the  daily contributions of the specific user.
 [Stratasys Printer](stratasysprinter.md)
 
 
-## Stereo Lithography 3D Printer
+## Stereo Lathography 3D Printer
 
 
-[Stereo Lithography Printer](stereolatho.md)
+[Stereo Lathography Printer](stereolatho.md)
