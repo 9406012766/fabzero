@@ -27,4 +27,4 @@ Today I have seen different types machine as follows:
 
 ## Stereo Lathhography Printer
 
-![Stereo Lathography Printer](img/Stereolethographyprinter.jpeg "Stereo Lathography Printer")
+![Stereo Lathography Printer](img/stereolethography1.jpeg "Stereo Lathography Printer")
