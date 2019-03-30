@@ -9,9 +9,9 @@ Today I have seen different types machine as follows:
 
 ![CNC Machine](img/CNCMachine.jpeg "CNC")
 
-## Ink Jet Printer
+## Stratasys Printer
 
-![Ink Jet Printer](img/Inkjetprinter.jpeg "Ink Jet Printer")
+![Stratasys Printer](img/stratasys.jpeg "Stratasys Printer")
 
 ## Laser Cutter Filter
 
