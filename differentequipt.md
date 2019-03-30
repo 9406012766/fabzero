@@ -23,7 +23,7 @@ Today I have seen different types machine as follows:
 
 ## Scroll Saw Cutter 
 
-![Scroll Saw Cutter](img/Scrollsawcutter.jpeg "Scroll Saw Cutter")
+![Scroll Saw Cutter](img/scrollsaw.jpeg "Scroll Saw Cutter")
 
 ## Stereo Lathhography Printer
 
