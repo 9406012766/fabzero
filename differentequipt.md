@@ -28,3 +28,7 @@ Today I have seen different types machine as follows:
 ## Stereo Lathhography Printer
 
 ![Stereo Lathography Printer](img/stereolithography1.jpeg "Stereo Lathography Printer")
+
+## Sindoh 3D Printer
+
+![Sindoh 3D Printer](img/sindoh.jpeg "Sindoh 3D Printer")
