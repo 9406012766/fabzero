@@ -6,4 +6,4 @@ Objective of the project:
 
 2. This project is useful since it aims towards conservation of energy which is most important.
 
-The product would be useful in the those areas which require lights only when it is in use for eg: Staircase area, washrooms etc.
+3. The product would be useful in the those areas which require lights only when it is in use for eg: Staircase area, washrooms etc.
