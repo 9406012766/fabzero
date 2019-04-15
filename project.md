@@ -51,6 +51,10 @@ Now we placed the one side PCB in the "MonoFab - SRM-20" CNC machine and set the
 
 After cutting the trace file, we again set the another 32mm drilling bit to cut the Cut file which cut the outer portion of the main circuit board.
 
+![PCB Cutting](img/pcbcut.jpeg "PCB cutting")
+
+![PCB Cutting Video](img/pcbcutting.mp4 "PCB cutting")
+
 ![Soldering of components](img/prototype.jpeg "PCB")
 
 After made Trace and cut on the PCB, we soldered the required components as the schematic diagram.
