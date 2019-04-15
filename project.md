@@ -25,3 +25,16 @@ LED- 1 no.
 1 x 3 male Connector- 1no.
 
 Solid State Relay- 1no.
+
+
+## Working on the project:
+
+We prepared the schematic diagram of the circuit as per the pin connection of AT tiny-45 10SU data sheet along with above listed components through the KiCad.
+
+The above schematic diagram was converted to PCB print to design the pin connection through KiCad.
+
+Then we made the Trace and Cut file of the above PCB design in ".camm" format.
+
+Now we placed the an one side PCB in the "MonoFab" CNC machine and set the 64mm drilling bit to cut the Trace file which is as per the circuit diagram.
+
+After cutting the trace file, we again set the another 32mm drilling bit to cut the Cut file which cut the outer portion of the main circuit board.
