@@ -56,3 +56,7 @@ After cutting the trace file, we again set the another 32mm drilling bit to cut 
 ![Soldering of components](img/prototype.jpeg "PCB")
 
 After made Trace and cut on the PCB, we soldered the required components as the schematic diagram.
+
+
+
+Now, we draw a suitable box with  the hanging system and a mid hole to fit the PIR Sensor inside the box.
