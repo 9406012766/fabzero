@@ -41,7 +41,7 @@ The above schematic diagram was converted to PCB print to design the pin connect
 
 ![Cut](img/Cutt.jpeg "Cut")
 
-Then we made the Trace and Cut file of the above PCB design in ".camm" format.
+Then we made the Trace and Cut file of the above PCB design.
 
 Now we placed the an one side PCB in the "MonoFab" CNC machine and set the 64mm drilling bit to cut the Trace file which is as per the circuit diagram.
 
