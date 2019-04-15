@@ -37,6 +37,10 @@ We prepared the schematic diagram of the circuit as per the pin connection of AT
 
 The above schematic diagram was converted to PCB print to design the pin connection through KiCad and connected the pins of the components as the schematic diagram.
 
+![Trace](img/trac.jpeg "Trace")
+
+![Cut](img/Cutt.jpeg "Cut")
+
 Then we made the Trace and Cut file of the above PCB design in ".camm" format.
 
 Now we placed the an one side PCB in the "MonoFab" CNC machine and set the 64mm drilling bit to cut the Trace file which is as per the circuit diagram.
