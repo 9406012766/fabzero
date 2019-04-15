@@ -11,10 +11,17 @@ Objective of the project:
 Components used in the project:
 
 Micro-controller- At tiny-45 10 SU- 1no.
+
 ISP Header – 1 no.
+
 PIR Sensor – 1 no.
+
 100 ohm resistor- 1 no.
+
 10 K resistor- 1no.
+
 LED- 1 no.
+
 1 x 3 male Connector- 1no.
+
 Solid State Relay- 1no.
