@@ -33,6 +33,7 @@ Solid State Relay- 1no.
 
 We prepared the schematic diagram of the circuit as per the pin connection of AT tiny-45 10SU data sheet along with above listed components through the KiCad.
 
+![PCB Print in KiCad](img/pcbkicad.jpeg "PCB Print in KiCad")
 
 The above schematic diagram was converted to PCB print to design the pin connection through KiCad.
 
