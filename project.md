@@ -37,7 +37,7 @@ We prepared the schematic diagram of the circuit as per the pin connection of AT
 
 The above schematic diagram was converted to PCB print to design the pin connection through KiCad and connected the pins of the components as the schematic diagram.
 
-![Trace](img/trac.jpeg "Trace")
+![Trace](img/Trac.jpeg "Trace")
 
 ![Cut](img/Cutt.jpeg "Cut")
 
