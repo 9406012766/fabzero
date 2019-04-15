@@ -35,7 +35,7 @@ We prepared the schematic diagram of the circuit as per the pin connection of AT
 
 ![PCB Print in KiCad](img/pcbkicad.jpeg "PCB Print in KiCad")
 
-The above schematic diagram was converted to PCB print to design the pin connection through KiCad.
+The above schematic diagram was converted to PCB print to design the pin connection through KiCad and connected the pins of the components as the schematic diagram.
 
 Then we made the Trace and Cut file of the above PCB design in ".camm" format.
 
