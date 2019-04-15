@@ -41,8 +41,12 @@ The above schematic diagram was converted to PCB print to design the pin connect
 
 ![Cut](img/Cutt.jpeg "Cut")
 
-Then we made the Trace and Cut file of the above PCB design.
+Then we made the Trace and Cut ".png" file of the above PCB design and converted into ".rml" file through www.fabmodule.org.
 
-Now we placed the an one side PCB in the "MonoFab" CNC machine and set the 64mm drilling bit to cut the Trace file which is as per the circuit diagram.
+![PCB setting in Mono Fab SRM -20 CNC Machine](img/monofab.jpg "PCB in Mono Fab SRM -20 CNC")
+
+![V Panel for setting of X, Y and Z axis for SRM - 20](img/srm20.jpg "V Panel")
+
+Now we placed the one side PCB in the "MonoFab - SRM-20" CNC machine and set the 64mm drilling bit to cut the Trace file after setting of "XY" and "Z" axis which is as per the circuit diagram.
 
 After cutting the trace file, we again set the another 32mm drilling bit to cut the Cut file which cut the outer portion of the main circuit board.
