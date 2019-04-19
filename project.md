@@ -58,4 +58,8 @@ After cutting the trace file, we again set the another 32mm drilling bit to cut 
 After made Trace and cut on the PCB, we soldered the required components as per the schematic diagram.
 
 Now, we made a suitable box with the hanging system and a mid hole to fit the PIR Sensor inside the box.
-The box was designed by "FreeCad" software by taking hight, width, length of the circuit board and the radius, diameter of the sensor to fit it in side mid hole of the box. After drawing the suitable box in "FreeCad", we saved that file in ".stl" format as we have to load it in "Sindoh" software for 3D Printing.
+The box was designed by "FreeCad" software by taking hight, width, length of the circuit board and the radius, diameter of the sensor to fit it in side mid hole of the box. After drawing the suitable box in "FreeCad", we saved that file in ".stl" format then we loaded it in "Sindoh" software for 3D Printing.
+
+![Box Design in FreeCad](img/freecad1.jpg "FreeCad Design")
+
+![Box Printing in 3D Printer](img/3dprinting.jpeg "3D Printing")
