@@ -35,7 +35,7 @@ We prepared the schematic diagram of the circuit as per the pin connection of AT
 
 ![PCB Print in KiCad](img/pcbkicad.jpeg "PCB Print in KiCad")
 
-The above schematic diagram was converted to PCB print to design the pin connection through KiCad and connected the pins of the components as the schematic diagram.
+The above schematic diagram was converted to PCB print to design the pin connection through KiCad and connected the pins of the components as per the schematic diagram.
 
 ![Trace](img/Trac.jpeg "Trace")
 
@@ -56,6 +56,8 @@ After cutting the trace file, we again set the another 32mm drilling bit to cut 
 ![Soldering of components](img/prototype.jpeg "PCB")
 
 After made Trace and cut on the PCB, we soldered the required components as the schematic diagram.
+
+
 
 
 
