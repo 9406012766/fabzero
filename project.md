@@ -3,7 +3,7 @@
 ![Mr. Fransisco from Barcelona, Spain](img/frasisco.jpg "Fransisco")
 
 
-![Mr. Shibu from Kerala, India](img/sibu.jpeg "Shibu")
+![Mr. Shibu from Kerala, India](img/sibu.jpg "Shibu")
 
 
 ## Automatic Room Lighting System
