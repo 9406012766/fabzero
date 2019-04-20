@@ -1,10 +1,10 @@
 ## Introduction of Trainer 
 
 ![Fransisco from Spain](img/frasisco.jpg "Fransisco")
+Mr. Fransisco from Barcelona, Spain.
 
-
-![Mr. Shibu from Kerala, India](img/sibu.jpg "Shibu")
-
+![Mr. Shibu from India](img/sibu.jpg "Shibu")
+Mr. Shibu from Kerala, India.
 
 ## Automatic Room Lighting System
 
