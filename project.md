@@ -71,5 +71,4 @@ Then we prepared two tages named "FABLAB" and "ARAV". The texts were written in 
 
 Finally, we placed the PCB alingwith the PIR sensor inside that box and fixed it with the gum.
 
-![Autometic Room Lighting System](img/autometicroomlight1.jpg "Autometic Room Lighting System")
-![Autometic Room Lighting System](img/autometicroomlight2.jpg "Autometic Room Lighting System")
+![Autometic Room Lighting System](img/autometicroomlight1.jpg "Autometic Room Lighting System")  ![Autometic Room Lighting System](img/autometicroomlight2.jpg "Autometic Room Lighting System")
