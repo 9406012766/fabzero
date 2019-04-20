@@ -1,3 +1,11 @@
+## Introduction of Trainer 
+
+![Mr. Fransisco from Barcelona, Spain](img/frasisco.jpg "Fransisco")
+
+
+![Mr. Shibu from Kerala, India](img/sibu.jpeg "Shibu")
+
+
 ## Automatic Room Lighting System
 
 Objective of the project:
