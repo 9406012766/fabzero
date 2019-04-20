@@ -1,6 +1,6 @@
 ## Introduction of Trainer 
 
-![Fransisco from Barcelona, Spain](img/frasisco.jpg "Fransisco")
+![Fransisco from Spain](img/frasisco.jpg "Fransisco")
 
 
 ![Mr. Shibu from Kerala, India](img/sibu.jpg "Shibu")
