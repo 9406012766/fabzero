@@ -64,6 +64,11 @@ The box was designed by "FreeCad" software by taking hight, width, length of the
 
 ![Box Printing in 3D Printer](img/3dprinting.jpeg "3D Printing")
 
-Then we prepared two tages named "FABLAB" and "ARAV". The texts were written in "Inkscape" software. After editing, the file has to save in ".png" format. Open https://mods.cba.mit.edu and write click any where, the click on "Program" then click on "Open Sever Program". Then select the machine "Vinyl Cutter GX-24 cut png". A circuit will appear. Then select ".png" file which was already selected. Make speed (cm/s)=20. Then connect I/p and O/p. It will calculate and make a line between I/p and O/p.
+Then we prepared two tages named "FABLAB" and "ARAV". The texts were written in "Inkscape" software. After editing, the file has to save in ".png" format. Open https://mods.cba.mit.edu and write click any where, the click on "Program" then click on "Open Sever Program". Then select the machine "Vinyl Cutter GX-24 cut png". A circuit will appear. Then select ".png" file which was already selected. Make speed (cm/s)=20. Then connect I/p and O/p. It will calculate and make a line between I/p and O/p. To select the 'width' & 'Hight' of the text, click on "file" option & select "Document Properties". Now, send the save ".camm" file to print it in Vinyl cutter machine. Then, we pasted the tags on the 3D printed box.
 
-Make box and write the above texts. To move the text, click on the "Pointer" option and click on the text, so the text will move. To select the 'width' & 'Hight' of the text, click on "file" option & select "Document Properties". Now, send the save ".camm" file to print it in Vinyl cutter machine.
+![Sticker](img/fablab1.jpg "Sticker")
+![Sticker](img/fablab2.jpg "Sticker")
+
+Finally, we placed the PCB alingwith the PIR sensor inside that box and fixed it with the gum.
+
+![Box Design in FreeCad](img/freecad1.jpg "FreeCad Design")
