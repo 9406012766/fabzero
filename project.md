@@ -69,7 +69,7 @@ Then we prepared two tages named "FABLAB" and "ARAV". The texts were written in 
 ![Sticker](img/fablab1.jpg "Sticker")
 ![Sticker](img/fablab2.jpg "Sticker")
 
-##Finally, we placed the PCB alingwith the PIR sensor inside that box and fixed it with the gum.
+## Finally, we placed the PCB alingwith the PIR sensor inside that box and fixed it with the gum.
 
 ![Autometic Room Lighting System](img/autometicroomlight1.jpg "Autometic Room Lighting System")  
 ![Autometic Room Lighting System](img/autometicroomlight2.jpg "Autometic Room Lighting System")
