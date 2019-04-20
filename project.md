@@ -73,3 +73,7 @@ Then we prepared two tages named "FABLAB" and "ARAV". The texts were written in 
 
 ![Autometic Room Lighting System](img/autometicroomlight1.jpg "Autometic Room Lighting System")  
 ![Autometic Room Lighting System](img/autometicroomlight2.jpg "Autometic Room Lighting System")
+
+Note: We delivered a ppt presentation of this project on 05.04.2019 to our trainers.  
+
+###  ***********   THANK YOU ************
