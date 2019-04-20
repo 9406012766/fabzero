@@ -14,7 +14,7 @@ Mr. Shibu from Kerala, India.
 
 Mr. Sandeep Nair, STPI-Bhopal
 
-![Mr. Suvadip Barua](img/suvadip.jpg "Suvadip")
+![Mr. Suvadip Barua](img/suvadip1.jpg "Suvadip")
 
 Mr. Suvadip Barua, STPI-Kolkata
 
