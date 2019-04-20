@@ -8,6 +8,16 @@ Mr. Fransisco from Barcelona, Spain.
 
 Mr. Shibu from Kerala, India.
 
+## Project Implementation Group
+
+![Mr. Sandeep Nair](img/sandeep.jpg "Sandeep")
+
+Mr. Sandeep Nair, STPI-Bhopal
+
+![Mr. Suvadip Barua](img/suvadip.jpg "Suvadip")
+
+Mr. Suvadip Barua, STPI-Kolkata
+
 ## Automatic Room Lighting System
 
 Objective of the project:
