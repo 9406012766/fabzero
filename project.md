@@ -71,4 +71,5 @@ Then we prepared two tages named "FABLAB" and "ARAV". The texts were written in 
 
 Finally, we placed the PCB alingwith the PIR sensor inside that box and fixed it with the gum.
 
-![Box Design in FreeCad](img/freecad1.jpg "FreeCad Design")
+![Autometic Room Lighting System](img/autometicroomlight1.jpg "Autometic Room Lighting System")
+![Autometic Room Lighting System](img/autometicroomlight2.jpg "Autometic Room Lighting System")
