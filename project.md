@@ -1,3 +1,7 @@
+## FabLab Training Programme - STPI-Bhubaneswar
+
+![FabLab Training Programm](img/fablab.jpg "FabLab")
+
 ## Introduction of Trainer 
 
 ![Fransisco from Spain](img/frasisco.jpg "Fransisco")
